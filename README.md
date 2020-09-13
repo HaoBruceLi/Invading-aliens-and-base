@@ -15,7 +15,21 @@ change the output name to 'program' using the -o option
 ### 2) change the build command to g++ -Wall -o "%e" "%f" -lm -lGL -lGLU -lglut
 
 ### 3) Compile
+######################################################
 
+Instructions 
 
+| Keys     |Scene Interacting|
+|:--------:|:---------------:|
+| Home     |  Toggle camera modes |
+| Page Up  |    Increase camera height in initial camera mode   |   
+| Page Down| Decrease camera height in initial camera mode |   
+| PUp      | Move camera forward  |   
+| Down     | Move camera backward  |   
+| Right    | Turn right by 5 degs |   
+| Left     | Turn left by 5 degs |   
+| S        | Spaceship lifts off |   
+| A        | Spaceship lands |   
+| C        | Cannon fire |   
 
 
